@@ -1,0 +1,181 @@
+{
+  "slider": [
+    {
+      "id": "1",
+      "link": "",
+      "img": "https://in.bmscdn.com/showcaseimage/eventimage/magic-mountain-28-11-2019-01-38-59-328.jpg"
+    },
+    {
+      "id": "2",
+      "link": "",
+      "img": "https://in.bmscdn.com/showcaseimage/eventimage/gang-leader-23-09-2019-12-41-36-665.jpg"
+    },
+    {
+      "id": "3",
+      "link": "",
+      "img": "https://in.bmscdn.com/showcaseimage/eventimage/u2--the-joshua-tree-tour-2019--mumbai-16-11-2019-03-16-48-839.jpg"
+    },
+    {
+      "id": "4",
+      "link": "",
+      "img": "https://in.bmscdn.com/showcaseimage/eventimage/hotel-mumbai-27-11-2019-12-12-46-305.jpg"
+    },
+    {
+      "id": "5",
+      "link": "",
+      "img": "https://in.bmscdn.com/showcaseimage/eventimage/french-fries--fresh-jokes-19-11-2019-12-53-13-839.jpg"
+    },
+    {
+      "id": "6",
+      "link": "",
+      "img": "https://in.bmscdn.com/showcaseimage/eventimage/atul-khatri-live-27-11-2019-12-49-35-920.jpg"
+    },
+    {
+      "id": "7",
+      "link": "",
+      "img": "https://in.bmscdn.com/showcaseimage/eventimage/magic-mountain-28-11-2019-01-38-59-328.jpg"
+    }
+  ],
+  "resentSearch": [
+    {
+      "name":"Frozen 2",
+      "type": "Movies"
+    },
+    {
+      "name":"Good Newwz",
+      "type": "Movies"
+    },
+    {
+      "name":"Hotel Mumbai",
+      "type": "Movies"
+    },
+    {
+      "name":"FKnives Out",
+      "type": "Movies"
+    },
+    {
+      "name":"Pati Patni Aur Woh",
+      "type": "Movies"
+    }
+  ],
+  "movies": [
+    {
+      "id": "1",
+      "imgUrl": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/balah0n-et00102272-06-05-2019-04-10-50.jpg",
+      "type": ["Comedy","Drama"],
+      "languages": "Hindi",
+      "like": 100,
+      "dislike": 500,
+      "rating": 2,
+      "release_date": "08 Nov, 2019",
+      "size": "2 hrs 09 mins",
+      "name": "Bala",
+      "sum": "The film tells the story of Bala (Ayushmann Khurana) a man who is balding prematurely and how he copes with the situation. The film also narrates Bala`s relationship with two women played by Yami Gautam and Bhumi Pednekar respectively. "
+
+    },
+    {
+      "id": "2",
+      "imgUrl": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/pagalpanti-et00103609-27-05-2019-02-31-23.jpg",
+      "type": ["Comedy","Drama"],
+      "languages": "Hindi",
+      "like": 500,
+      "dislike": 200,
+      "rating": 4,
+      "release_date": "22 Nov, 2019",
+      "size": "2 hrs 32 mins",
+      "name": "Pagalpanti",
+      "sum": "A group of tourists from India set out on a vacation only to have the trip turn into a patriotic mission. Can they pull it off? "
+    },
+    {
+      "id": "3",
+      "imgUrl": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/commando-3-et00104233-04-06-2019-10-22-17.jpg",
+      "type": ["Action","Drama"],
+      "languages": "Hindi",
+      "like": 200,
+      "dislike": 800,
+      "rating": 2,
+      "release_date": "29 Nov, 2019",
+      "size": "2 hrs 13 mins",
+      "name": "Commando 3",
+      "sum": "A mysterious man is on an impending mission to attack the country from his base in London. Karan Singh Dogra sets out to hunt down the antagonist aided by the British Intelligence. Will our Commando be able to prevent the attack and save the country? "
+    },
+    {
+      "id": "4",
+      "imgUrl": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/hotel-mumbai-et00053543-14-02-2017-09-24-41.jpg",
+      "type": ["Action","Drama"],
+      "languages": "Hindi",
+      "like": 200,
+      "dislike": 200,
+      "rating": 2,
+      "release_date": "29 Nov, 2019",
+      "size": "2 hrs 13 mins",
+      "name": "Hotel Mumbai",
+      "sum": "Film portrays an incredible true story of indomitable human spirit, based on the 26/11 terrorist attacks at the Taj Mahal Palace Hotel, Mumbai in 2008.  "
+    },
+    {
+      "id": "5",
+      "imgUrl": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/frozen-2-et00056551-26-04-2017-07-17-17.jpg",
+      "type": ["Action","Drama"],
+      "languages": "Hindi",
+      "like": 200,
+      "dislike": 200,
+      "rating": 2,
+      "release_date": "29 Nov, 2019",
+      "size": "2 hrs 13 mins",
+      "name": "Frozen 2",
+      "sum": "Film portrays an incredible true story of indomitable human spirit, based on the 26/11 terrorist attacks at the Taj Mahal Palace Hotel, Mumbai in 2008.  "
+    },{
+      "id": "6",
+      "imgUrl": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/marjaavaan-et00087452-31-10-2018-10-20-39.jpg",
+      "type": ["Action","Drama"],
+      "languages": "Hindi",
+      "like": 200,
+      "dislike": 200,
+      "rating": 2,
+      "release_date": "21 Nov, 2019",
+      "size": "2 hrs 13 mins",
+      "name": "Marjaavaan",
+      "sum": "Film portrays an incredible true story of indomitable human spirit, based on the 26/11 terrorist attacks at the Taj Mahal Palace Hotel, Mumbai in 2008.  "
+    },
+    {
+      "id": "7",
+      "imgUrl": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/yeh-saali-aashiqui-et00116408-05-11-2019-09-53-06.jpg",
+      "type": ["Romance","Drama"],
+      "languages": "Hindi",
+      "like": 200,
+      "dislike": 200,
+      "rating": 2,
+      "release_date": "11 Nov, 2019",
+      "size": "2 hrs 30 mins",
+      "name": "Yeh Saali Aashiqui",
+      "sum": "Film portrays an incredible true story of indomitable human spirit, based on the 26/11 terrorist attacks at the Taj Mahal Palace Hotel, Mumbai in 2008.  "
+    },
+    {
+      "id": "8",
+      "imgUrl": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/saand-ki-aankh-et00096619-14-02-2019-03-04-35.jpg",
+      "type": ["Romance","Drama"],
+      "languages": "Hindi",
+      "like": 200,
+      "dislike": 200,
+      "rating": 2,
+      "release_date": "11 Nov, 2019",
+      "size": "2 hrs 30 mins",
+      "name": "Saand Ki Aankh",
+      "sum": "Film portrays an incredible true story of indomitable human spirit, based on the 26/11 terrorist attacks at the Taj Mahal Palace Hotel, Mumbai in 2008.  "
+    },
+    {
+      "id": "9",
+      "imgUrl": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/pati-patni-aur-woh-et00094055-14-01-2019-01-47-49.jpg",
+      "type": ["Romance","Drama"],
+      "languages": "Hindi",
+      "like": 200,
+      "dislike": 200,
+      "rating": 2,
+      "release_date": "11 Nov, 2019",
+      "size": "2 hrs 30 mins",
+      "name": "Pati Patni Aur Woh",
+      "sum": "Film portrays an incredible true story of indomitable human spirit, based on the 26/11 terrorist attacks at the Taj Mahal Palace Hotel, Mumbai in 2008.  "
+    }
+
+  ]
+}
