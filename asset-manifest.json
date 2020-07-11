@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-firebase-movie/static/css/main.5cc662a5.chunk.css",
+    "main.js": "/react-firebase-movie/static/js/main.50bdfee9.chunk.js",
+    "main.js.map": "/react-firebase-movie/static/js/main.50bdfee9.chunk.js.map",
+    "runtime-main.js": "/react-firebase-movie/static/js/runtime-main.6d90f992.js",
+    "runtime-main.js.map": "/react-firebase-movie/static/js/runtime-main.6d90f992.js.map",
+    "static/js/2.fc3d3b21.chunk.js": "/react-firebase-movie/static/js/2.fc3d3b21.chunk.js",
+    "static/js/2.fc3d3b21.chunk.js.map": "/react-firebase-movie/static/js/2.fc3d3b21.chunk.js.map",
+    "index.html": "/react-firebase-movie/index.html",
+    "precache-manifest.09e8a436cbeedc69505c92a6ad5f0f3b.js": "/react-firebase-movie/precache-manifest.09e8a436cbeedc69505c92a6ad5f0f3b.js",
+    "service-worker.js": "/react-firebase-movie/service-worker.js",
+    "static/css/main.5cc662a5.chunk.css.map": "/react-firebase-movie/static/css/main.5cc662a5.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d90f992.js",
+    "static/js/2.fc3d3b21.chunk.js",
+    "static/css/main.5cc662a5.chunk.css",
+    "static/js/main.50bdfee9.chunk.js"
+  ]
+}
