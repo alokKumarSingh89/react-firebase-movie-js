@@ -40,7 +40,11 @@ const MovieDetails = ({ id, movies }) => {
       <Box className={classes.contentWrapper}>
         <Grid container>
           <Grid item sm={3}>
-            <img src={currentMovies.imgUrl} alt={currentMovies.name} />
+            <img
+              src={currentMovies.imgUrl}
+              alt={currentMovies.name}
+              style={{ width: "80%" }}
+            />
           </Grid>
           <Grid item sm={9}>
             <Grid container spacing={2}>
