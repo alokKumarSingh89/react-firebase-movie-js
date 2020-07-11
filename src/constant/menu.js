@@ -1,11 +1,11 @@
 export default {
-    primary: [
-        { name: "Dashboard" },
-        { name: "Events" },
-        { name: "Plays" },
-        { name: "Sports" },
-        { name: "Activate" },
-        { name: "Buzz" }
-    ],
-    secondary: [{ name: "Gift" }]
+  primary: [
+    { name: "Dashboard", link: "/" },
+    { name: "Events", link: "/events" },
+    { name: "Plays", link: "/plays" },
+    { name: "Sports", link: "/sports" },
+    { name: "Activate", link: "/activate" },
+    { name: "Buzz", link: "/nothing" },
+  ],
+  secondary: [{ name: "Gift" }],
 };

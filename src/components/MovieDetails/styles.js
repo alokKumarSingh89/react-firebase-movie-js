@@ -86,5 +86,26 @@ export default makeStyles({
     position: "relative",
     top: -323,
     zIndex: -10,
+    padding: "0px 20% 0 30%",
+    "& div": {
+      padding: "1% 0 0 0",
+    },
+    "& .rating": {
+      display: "inline-block",
+      width: "4%",
+      position: "relative",
+      top: -5,
+      fontSize: 20,
+      marginRight: 10,
+      fontWeight: 400,
+      lineHeight: 1.2,
+      color: "#2d181c",
+    },
+  },
+  desc: {
+    width: "41%",
+    margin: "auto",
+    position: "relative",
+    top: -294,
   },
 });
